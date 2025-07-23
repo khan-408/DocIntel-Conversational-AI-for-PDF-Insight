@@ -1,7 +1,3 @@
-Here’s a solid `README.md` draft for your **DocIntel** project, Aqleem — written with clarity, confidence, and personality. This version will work well for GitHub, freelance portfolios, or demo submissions. Let’s showcase your work like a pro:
-
----
-
 ## 📚 DocIntel – Conversational AI for PDF Insight
 
 **DocIntel** is a LangChain-powered PDF chatbot designed to help users interact with documents intelligently. Ask questions, retrieve answers with source citations, and explore multiple PDFs in one seamless conversation. Built using modular architecture, semantic embeddings, and real-time chat memory, DocIntel offers the next step in GenAI-powered document comprehension.
