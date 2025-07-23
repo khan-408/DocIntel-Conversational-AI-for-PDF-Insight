@@ -83,4 +83,3 @@ MIT License — free to use, modify, and share.
 
 ---
 
-Want me to personalize the GitHub repo description or help design a badge-style project logo next? Let’s polish this to portfolio level 💼⚡.
